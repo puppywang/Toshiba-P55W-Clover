@@ -5996,26 +5996,6 @@
 					AwAAAA==
 					</data>
 					<key>Codec</key>
-					<string>Toshiba - Conexant CX20722</string>
-					<key>CodecID</key>
-					<integer>351359218</integer>
-					<key>ConfigData</key>
-					<data>
-					AWccQAFnHRABZx4rAWcfBAF3HBABdx0BAXce
-					FwF3H5ABhxzwAYcdAAGHHgABhx9AAZccMAGX
-					HRABlx6rAZcfBAGnHCABpx0BAacepwGnH5U=
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>11</integer>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
 					<string>Mirone - Conexant CX20724</string>
 					<key>CodecID</key>
 					<integer>351359220</integer>
@@ -6125,6 +6105,26 @@
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>
+					AwAAAA==
+					</data>
+					<key>Codec</key>
+					<string>Toshiba - Conexant CX20755</string>
+					<key>CodecID</key>
+					<integer>351359251</integer>
+					<key>ConfigData</key>
+					<data>
+					AWccQAFnHRABZx4rAWcfBAF3HBABdx0BAXce
+					FwF3H5ABhxzwAYcdAAGHHgABhx9AAZccMAGX
+					HRABlx6rAZcfBAGnHCABpx0BAacepwGnH5U=
+					</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>11</integer>
 				</dict>
 				<dict>
 					<key>AFGLowPowerState</key>
